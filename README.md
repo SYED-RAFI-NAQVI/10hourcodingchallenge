@@ -12,7 +12,7 @@
 
 # Project
 
- The project is bulid to chage the low light image into high threshold threshold image whith openCV.
+ The project is bulid to chage the low light image into high threshold image whith openCV.
  
  
  Original Image :
