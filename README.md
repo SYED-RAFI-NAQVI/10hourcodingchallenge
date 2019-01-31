@@ -20,7 +20,7 @@
    
    
    Final Image:
-        ![Final Image](./finalimage.jpg)
+        ![Final Image](./finalimg.jpg)
    
    
    
