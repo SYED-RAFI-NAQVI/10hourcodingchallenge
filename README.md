@@ -19,7 +19,7 @@
   ![Original Image](./4.jpg)
    
  Final Image:
-  ![Final Image](./finalimg.jpg)
+  ![Final Image](./finalImg.jpg)
    
    
    
